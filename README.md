@@ -1,2 +1,2 @@
 # MP1-Email-Checker
-Checks if email is valid with "@"
+Checks how long the character count is.
